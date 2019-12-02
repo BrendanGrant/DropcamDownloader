@@ -1,0 +1,3 @@
+[submodule "BUDCC.DropcamClient"]
+	path = BUDCC.DropcamClient
+	url = https://github.com/BrendanGrant/BUDCC.DropcamClient
